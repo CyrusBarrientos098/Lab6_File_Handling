@@ -1,0 +1,5 @@
+Student: Barrientos
+Student ID: TUPM-26-4184
+Seed digit: 4
+ID sum: 25
+Verification value: 254
