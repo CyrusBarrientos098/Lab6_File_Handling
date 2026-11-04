@@ -1,0 +1,13 @@
+{
+    "Student ID Sum": 25,
+    "Seed Digit": 4,
+    "Operating System": "Android",
+    "User Behavior Class": 5,
+    "Total Dataset Records": 700,
+    "Records Matching Operating System": 554,
+    "Records in Target Behavior Class": 105,
+    "Average Battery Drain (mAh/day)": 2693.06,
+    "Average Data Usage (MB/day)": 1984.77,
+    "Exported CSV Records": 105,
+    "Count Verification": true
+}
